@@ -4,7 +4,8 @@ public class Main {
         card.setId("1234567890");
         card.setCardHolder("Konstantin");
         card.setDiscount(0.5);
+        int amount = 500;
     }
-        String getDiscount() {
-    }
+    void getCurentDiscount(int amount){
+        }
 }

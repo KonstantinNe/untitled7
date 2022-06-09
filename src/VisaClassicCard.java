@@ -15,8 +15,8 @@ class VisaClassicCard {
         this.discount = discount;
         return discount;
     }
-    public void getDiscount(amount, discount) {
-        if (amount > 500);
+    public void getCurrentDiscount() {
+        if (amount > 0);
         discount = (int) (amount*discount);
     }
 }
